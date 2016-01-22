@@ -9,7 +9,7 @@
 - :pencil: [How to get help with Vim](https://hashrocket.com/blog/posts/how-to-get-help-with-vim) at [Hashrocket](https://hashrocket.com/blog)
 - :pencil: [Upsert Records with PostgreSQL 9.5](https://hashrocket.com/blog/posts/upsert-records-with-postgresql-9-5) at [Hashrocket](https://hashrocket.com/blog)
 
-- :speech_balloon: [Exploring Sensible Vim Settings with sensible.vim](http://www.meetup.com/Vim-Chicago/events/227504423/) at Hashrocket Chicago
+- :speech_balloon: [Exploring Sensible Vim Settings with sensible.vim](http://www.meetup.com/Vim-Chicago/events/227504423/) at [VimChi](http://vimchi.com/)
 
 ## Wish List
 
