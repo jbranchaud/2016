@@ -14,6 +14,7 @@
 ## Wish List
 
 - [ ] :books: [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](http://www.amazon.com/The-New-Crow-Incarceration-Colorblindness/dp/1595586431) by Michelle Alexander
+- [ ] :books: [The Joy of Clojure](http://www.amazon.com/The-Joy-Clojure-Thinking-Way/dp/1935182641) by Chris Houser and Michael Fogus
 - [ ] :books: [Brave New World](http://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523) by Aldous Huxley
 - [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 - [ ] :books: [The Brothers Karamazov](http://www.amazon.com/The-Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373) by Fyodor Dostoevsky
