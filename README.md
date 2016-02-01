@@ -3,7 +3,7 @@
 ## January
 
 - [x] :books: [Men Explain Things To Me](http://www.amazon.com/Men-Explain-Things-Updated-Edition/dp/1608464962) by Rebecca Solnit
-- [ ] :books: [The Handmaid's Tale](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale) by Margaret Atwood
+- [x] :books: [The Handmaid's Tale](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale) by Margaret Atwood
 - [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
 
 - :pencil: [How to get help with Vim](https://hashrocket.com/blog/posts/how-to-get-help-with-vim) at [Hashrocket](https://hashrocket.com/blog)
