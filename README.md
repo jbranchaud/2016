@@ -18,6 +18,8 @@
 
 - :speech_balloon: [Exploring Sensible Vim Settings with sensible.vim](http://www.meetup.com/Vim-Chicago/events/227504423/) at [VimChi](http://vimchi.com/)
 
+- :newspaper: [Postgres Weekly Issue 140: Upsert Records with PostgreSQL 9.5](http://postgresweekly.com/issues/140)
+
 ## Wish List
 
 - [ ] :books: [The Joy of Clojure](http://www.amazon.com/The-Joy-Clojure-Thinking-Way/dp/1935182641) by Chris Houser and Michael Fogus
