@@ -6,6 +6,7 @@
 - [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
 
 - :newspaper: [Keep a "Today I Learned" Log of All the Useful Stuff You Learn](http://lifehacker.com/keep-a-today-i-learned-log-of-all-the-useful-stuff-yo-1758286512)
+- :newspaper: [Show HN: I've been writing daily TILs for a year](https://news.ycombinator.com/item?id=11068902)
 
 ## January
 
