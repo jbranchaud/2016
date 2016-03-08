@@ -1,9 +1,13 @@
 # 2016
 
+## March
+
+- [ ] :books: [Between the World and Me](http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543) by Ta-Nehisi Coates
+- [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
+
 ## February
 
 - [x] :books: [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](http://www.amazon.com/The-New-Crow-Incarceration-Colorblindness/dp/1595586431) by Michelle Alexander
-- [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
 
 - :newspaper: [Keep a "Today I Learned" Log of All the Useful Stuff You Learn](http://lifehacker.com/keep-a-today-i-learned-log-of-all-the-useful-stuff-yo-1758286512)
 - :newspaper: [Show HN: I've been writing daily TILs for a year](https://news.ycombinator.com/item?id=11068902)
