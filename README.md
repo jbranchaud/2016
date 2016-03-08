@@ -5,6 +5,8 @@
 - [ ] :books: [Between the World and Me](http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543) by Ta-Nehisi Coates
 - [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
 
+- :pencil: [Understanding The Buffer List in Vim: Part 1](https://hashrocket.com/blog/posts/understanding-the-buffer-list-in-vim-part-1) at [Hashrocket](https://hashrocket.com/blog)
+
 ## February
 
 - [x] :books: [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](http://www.amazon.com/The-New-Crow-Incarceration-Colorblindness/dp/1595586431) by Michelle Alexander
