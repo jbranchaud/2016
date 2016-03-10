@@ -4,6 +4,7 @@
 
 - [ ] :books: [Between the World and Me](http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543) by Ta-Nehisi Coates
 - [ ] :books: [Seven More Languages in Seven Weeks](http://www.amazon.com/Seven-More-Languages-Weeks-Shaping/dp/1941222153) by Bruce Tate et al
+- [x] :books: [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) by Friedrich Engels and Karl Marx
 
 - :pencil: [Understanding The Buffer List in Vim: Part 1](https://hashrocket.com/blog/posts/understanding-the-buffer-list-in-vim-part-1) at [Hashrocket](https://hashrocket.com/blog)
 
