@@ -1,5 +1,9 @@
 # 2016
 
+## April
+
+- [ ] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
+
 ## March
 
 - [x] :books: [Between the World and Me](http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543) by Ta-Nehisi Coates
