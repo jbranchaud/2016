@@ -34,6 +34,7 @@
 
 ## Wish List
 
+- [ ] :books: [Capital in the Twenty-First Century](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/1491534656) by Thomas Piketty
 - [ ] :books: [The Joy of Clojure](http://www.amazon.com/The-Joy-Clojure-Thinking-Way/dp/1935182641) by Chris Houser and Michael Fogus
 - [ ] :books: [Brave New World](http://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523) by Aldous Huxley
 - [ ] :books: [The Brothers Karamazov](http://www.amazon.com/The-Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373) by Fyodor Dostoevsky
