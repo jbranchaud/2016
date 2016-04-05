@@ -3,6 +3,7 @@
 ## April
 
 - [ ] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
+- [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 
 ## March
 
@@ -35,7 +36,6 @@
 
 - [ ] :books: [The Joy of Clojure](http://www.amazon.com/The-Joy-Clojure-Thinking-Way/dp/1935182641) by Chris Houser and Michael Fogus
 - [ ] :books: [Brave New World](http://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523) by Aldous Huxley
-- [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 - [ ] :books: [The Brothers Karamazov](http://www.amazon.com/The-Brothers-Karamazov-Fyodor-Dostoevsky/dp/0374528373) by Fyodor Dostoevsky
 - [ ] :books: [Turing's Cathedral: The Origins of the Digital Universe](http://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe-ebook/dp/B005IEGK5C) by George Dyson
 - [ ] :books: Design book?
