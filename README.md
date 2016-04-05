@@ -32,7 +32,7 @@
 
 - :newspaper: [Postgres Weekly Issue 140: Upsert Records with PostgreSQL 9.5](http://postgresweekly.com/issues/140)
 
-## Wish List
+## Short List
 
 - [ ] :books: [Capital in the Twenty-First Century](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/1491534656) by Thomas Piketty
 - [ ] :books: [The Joy of Clojure](http://www.amazon.com/The-Joy-Clojure-Thinking-Way/dp/1935182641) by Chris Houser and Michael Fogus
