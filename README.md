@@ -2,7 +2,7 @@
 
 ## April
 
-- [ ] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
+- [x] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
 - [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 
 ## March
