@@ -5,6 +5,8 @@
 - [x] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
 - [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 
+- :speech_balloon: [Solving Puzzles with Constraint Programming](http://www.meetup.com/Hashrocket-Chicago-Event-Horizon/events/229042127/) at [Hashrocket Event Horizon](http://www.meetup.com/Hashrocket-Chicago-Event-Horizon/)
+
 ## March
 
 - [x] :books: [Between the World and Me](http://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543) by Ta-Nehisi Coates
