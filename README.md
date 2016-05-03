@@ -1,5 +1,9 @@
 # 2016
 
+## May
+
+- :newspaper: [How I Vim](http://howivim.com/2016/josh-branchaud/)
+
 ## April
 
 - [x] :books: [Barrel Fever: Stories and Essays](http://www.amazon.com/Barrel-Fever-Stories-David-Sedaris/dp/0316779423) by David Sedaris
