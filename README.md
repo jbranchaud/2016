@@ -5,6 +5,8 @@
 - [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 - [ ] :books: [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 
+- :pencil: [Working With Email Addresses In PostgreSQL](https://hashrocket.com/blog/posts/working-with-email-addresses-in-postgresql) at [Hashrocket](https://hashrocket.com/blog)
+
 - :newspaper: [How I Vim](http://howivim.com/2016/josh-branchaud/)
 
 ## April
