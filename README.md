@@ -2,6 +2,7 @@
 
 ## May
 
+- [x] :books: [We Should All Be Feminists](http://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X) by Chimamanda Ngozi Adichie
 - [ ] :books: [A Brief History of Neoliberalism](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273) by David Harvey
 - [ ] :books: [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 
